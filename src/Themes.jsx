@@ -16,7 +16,7 @@ export default class Themes extends Component {
 
       <div>
         <Header />
-       
+       <h1>This is where changing themes would be!</h1>
       </div>
 
 
